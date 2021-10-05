@@ -32,5 +32,5 @@ Atenção: Para o bot funcionar você precisam gerar os tokens nas plataformas: 
 ![image](https://user-images.githubusercontent.com/60077995/136064550-e3f1ba6d-5e9a-47e9-8c31-74eaa9c693fd.png)
 ![image](https://user-images.githubusercontent.com/60077995/136064434-050e2930-a3e1-4565-bbc9-bd4e57e1f18a.png)
 <div style="display: inline_block"><br/>
-    <img align="center" alt="ApiRest" src="https://img.shields.io/badge/API%20REST-B50BEC?style=for-the-badge&logo=apirest&logoColor=white" /> https://www.linkedin.com/in/leonardo-klinger/
+    <img align="center" alt="LinkeDin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/leonardo-klinger/
 </div><br/>
