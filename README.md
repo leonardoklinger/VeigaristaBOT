@@ -30,3 +30,4 @@ Atenção: Para o bot funcionar você precisam gerar os tokens nas plataformas: 
 </div><br/>
 
 ![image](https://user-images.githubusercontent.com/60077995/136064434-050e2930-a3e1-4565-bbc9-bd4e57e1f18a.png)
+![image](https://user-images.githubusercontent.com/60077995/136064550-e3f1ba6d-5e9a-47e9-8c31-74eaa9c693fd.png)
