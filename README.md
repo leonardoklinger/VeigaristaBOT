@@ -34,8 +34,10 @@ Atenção: Para o bot funcionar você precisam gerar os tokens nas plataformas: 
 <br/>
 # Contatos
 <div style="display: inline_block"><br/>
-    <img align="center" alt="LinkeDin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/leonardo-klinger/
-    <br/>
-    <br/>
     <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> Leonardo Klinger#3725
+    <br/>
+    <br/>
+    <a href="https://www.linkedin.com/in/leonardo-klinger/" alt="linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    </a>
 </div><br/>
