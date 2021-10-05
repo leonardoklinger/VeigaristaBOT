@@ -1,0 +1,2 @@
+# VeigaristaBOT
+Bot para Discord
