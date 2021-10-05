@@ -1,6 +1,8 @@
 # VeigaristaBOT
 Olá, me chamo Leonardo Klinger, hoje estou trazendo um bot source open para discord, o bot foi inspirado no veigar personagem do jogo **League Of legends**, bem, ele ficou simples mas funcional, em breve terá mais algumas atualizações.
 
+Atenção: Para o bot funcionar você precisam gerar os tokens nas plataformas: https://developer.riotgames.com/, https://discord.com/developers/applications, https://www.mongodb.com/.
+
 # Front-end
 
 <div style="display: inline_block"><br/>
