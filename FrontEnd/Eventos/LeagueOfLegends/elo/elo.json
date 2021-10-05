@@ -1,0 +1,12 @@
+[
+    {"name": "CHALLENGER", "elo": "<:desafiante:888172030707515452>"},
+    {"name": "GRANDMASTER", "elo": "<:granmestre:888172305325387806>"},
+    {"name": "MASTER", "elo": "<:mestre:888172564206190622>"},
+    {"name": "DIAMOND", "elo": "<:diamante:888172624360906803>"},
+    {"name": "PLATINUM", "elo": "<:platina:888172669768433694>"},
+    {"name": "GOLD", "elo": "<:ouro:888172692170227752>"},
+    {"name": "SILVER", "elo": "<:prata:888172711925411860>"},
+    {"name": "BRONZE", "elo": "<:bronze:888172728400625674>"},
+    {"name": "IRON", "elo": "<:ferro:888172748747202561>"},
+    {"name": false, "elo": "<:default:888961433654677545>"}
+]
